@@ -4,4 +4,6 @@ public class hello {
     line2;
     line by test branch;
     line added by test-sub;
+
+    line added by main;
 }
